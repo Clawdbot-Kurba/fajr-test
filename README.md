@@ -1,2 +1,0 @@
-# fajr-test
-Test
